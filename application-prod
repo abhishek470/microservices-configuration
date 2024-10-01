@@ -1,4 +1,3 @@
-
 eureka:
   client:
     fetch-registry: true
@@ -8,5 +7,4 @@ eureka:
 
 spring:
   application:
-    name: PROD_CONFIG
-
+    name: DEFAULT_CONFIG
